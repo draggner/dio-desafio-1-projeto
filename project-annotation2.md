@@ -1,5 +1,5 @@
 # Introdução ao Git e ao GitHub
-*por Otávio Reis, na Dio.me*
+*por Otávio Reis
 
 **Objetivo Geral**
 
