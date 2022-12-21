@@ -3,7 +3,7 @@
 
 **Objetivo Geral**
 
-Entender a Importância do Git e GitHub e Utilização, Sendo Capaz de Entender os Conceitos e Comandos.
+Entender a Importância do Git e GitHub e Capaz de Entender os Conceitos e Comandos de Uso.
 
 ## Conceituando
 
@@ -28,6 +28,8 @@ Ambos o **Git e GitHub** São tecnologias que uma guarda os códigos processados
 O Git tem algumas características do Terminal Windows o próprio cmd. Para baixar o software, basta acessar área de download do 
 
 Site Git [https://git-scm.com/]
+
+O Git por sua vez tem diversas funções e comandos para a construção, podendo descrever como resultou a construção.
 
 Existe alguns comandos que são utilizados no Git, como por exemplo:
 
