@@ -7,15 +7,15 @@ Entender a Importância do Git e GitHub e Utilização, Sendo Capaz de Entender 
 
 ## Conceituando
 
-**Git** é um software que contribui para a construção de codigos e aplicações de forma segura e autorial.
+**Git** É um software que contribui para a construção de códigos e aplicações de forma segura.
 
-**GitHub** é uma plataforma capaz de armazenar os codigos em nuvem.
+**GitHub** É uma plataforma capaz de armazenar os códigos em nuvem.
 
-As construções de codigos e amarzenamento, é por essas tecnologias. As construções de codigos pode ser qualquer ideia mas o codigo é diferente, pessoa por pessoa, cada um faz uma aplicação diferente para se obter o mesmo resultado, com isso, pode-se obter diversos rascunhos para chegar a **Versão Final.**
+As construções de códigos e armazenamento, é por essas tecnologias. As construções desses algoritmo pode ser qualquer ideia mas o código é diferente, pessoa por pessoa, cada um faz uma aplicação diferente para se obter o mesmo resultado, com isso, pode-se obter diversos rascunhos para chegar a **Versão Final.**
 
-O Git e GitHub estão intrelassadas. O GitHub como uma plataforma de armazenar codigo enquanto que o Git pode utilizar diversos comandos nos codigos, podendo alterar e encaminhar o codigo para o GitHub atraves de comandos e definindo os status de cada novo arquivo assim dando instruções de como ocorreu a construção do codigo, entre outros aspectos.
+O Git e GitHub estão entrelaçados. O GitHub como uma plataforma de armazenar código enquanto que o Git pode utilizar diversos comandos nos códigos, podendo alterar e encaminhar o codigo para o GitHub através de comandos e definindo os status de cada novo arquivo assim dando instruções de como ocorreu a construção do código, entre outros aspectos.
 
-Ambos o **Git e GitHub** são Tecnologias que uma guarda os codigos processados enquanto que outra desenvolve processos de desenvolvimento. Podendo possuir alguns aspectos como:
+Ambos o **Git e GitHub** São tecnologias que uma guarda os códigos processados enquanto que outra desenvolve processos de desenvolvimento. Podendo possuir alguns aspectos como:
 
 1. Controle de Versão;
 2. Armazenamento em Nuvem;
@@ -25,7 +25,7 @@ Ambos o **Git e GitHub** são Tecnologias que uma guarda os codigos processados 
 
 ## Comandos Básicos no Git
 
-O Git tem algumas caracteristicas do Terminal Windows, o cmd. Para baixar o software, basta acessar a aréa de download do 
+O Git tem algumas características do Terminal Windows o próprio cmd. Para baixar o software, basta acessar área de download do 
 
 Site Git [https://git-scm.com/]
 
@@ -58,11 +58,11 @@ Variações de uso:
 Uso dos comandos git commit -,m “qualquer caractere”, git add *, git status, echo > nomeDoArquivo, ls, cd “navegarPeloGit”, cd .. (subir um nível) entre outros;
 
 ## Utilização
-Quando se utiliza o Git, é parecido com o terminal porém existe uns aspectos que pode ser seguido:
+Quando se utiliza o Git, é parecido com o terminal porém existem alguns aspectos que pode ser seguido:
 
-Por exemplo, **ao Abrir o Git** para se ter uma presissão de navegação pelo Git, basta clicar com o botão direito do mouse no local onde estar seus arquivos, ao Clicar, tem uma opção chamada "Git Bash Here";
+Por exemplo, **ao Abrir o Git** para se ter uma precisão de navegação pelo Git, basta clicar com o botão direito do mouse no local onde estão seus arquivos, ao Clicar, tem uma opção chamada "Git Bash Here";
 
-Quando abrir, para ter alguns exemplos, na *minha area de trabalho* aparece essas opções no Git:
+Quando abrir, para ter alguns exemplos, na *minha área de trabalho* aparece essas opções no Git:
 
 draggner@9878-987654I ~/Desktop
 
@@ -76,13 +76,13 @@ draggner@9878-987654I ~/Desktop
 
 $ cd Pessoal
 
-Percebe-se que ao utilizar, eu estou descendo um nivel, ou seja, navegando pelos arquivos, mudando a ordem de onde estou *situado*.
+Percebe-se que ao utilizar, eu estou descendo um nível, ou seja, navegando pelos arquivos, mudando a ordem de onde estou *situado*.
 
 
 draggner@9878-987654I **~/Desktop/Pessoal**
 $
 
-Caso eu queira voltar ao nivel de onde estava *o /Desktop*, posso utilizar o *cd* + **..** logo volto para a aréa de trabalho, o exemplo que estou utilizando.
+Caso eu queira voltar ao nível de onde estava *o /Desktop*, posso utilizar o *cd* + **..** logo volto para a área de trabalho, o exemplo que estou utilizando.
 
 
 **Conceituando Alguns Comandos do Git**
@@ -90,9 +90,9 @@ Caso eu queira voltar ao nivel de onde estava *o /Desktop*, posso utilizar o *cd
 1. **cd** Mover pelas pastas existentes no computador.
 2. **dir** Mover as pastas ou arquivos existentes.
 3. **mkdir** Criar pastas/arquivos.
-4. **del/rmdir** Deletar pastas/ aquivos.
+4. **del/rmdir** Deletar pastas/ arquivos.
 5. **ls** Exibe a lista de arquivos e pastas existentes no terminal.
-6. ** cd ..** Mudar o nivel das pastas que esta localizado.
+6. ** cd ..** Mudar o nível das pastas que está localizado.
 
 Alguns comandos adicionais que auxiliam o uso
 
