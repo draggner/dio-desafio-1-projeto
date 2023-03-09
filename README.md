@@ -1,4 +1,4 @@
-#Projeto 1 da Formação HTML Web Developer
+Projeto 1 da Formação HTML Web Developer
 
 Esse tópico aborda sobre as 4 gerações que se consideram períodos cronológicos da história dos computadores, sabe-se que a tecnologia esta cada vez mais presente nos dias de hoje e a evolução delas este cada vez mais aquecido com novas tendências de tecnologia incluindo os próprios computadores.
 
@@ -15,7 +15,7 @@ O período dos computadores de Terceira Geração, nas décadas de 1964 a 1970, 
 
 E por último, o período dos computadores de Quarta Geração que se destaca nas décadas de 1970 até os dias de hoje. Esses computadores são conhecidos pelo começo dos microprocessadores e computadores pessoais, com redução drástica do tamanho e do preço das maquinas. Além disso, os circuitos que foram estabelecidos nos computadores de Terceira Geração, acabaram avançando e se renovando na geração seguinte, se tornando ainda mais integrados e menores, possibilitando o desenvolvimento dos microprocessadores.
 
-#Referências
+Referências
 ##Materiais utilizados para a construção da aplicação web referênte ao Desafio 1 de Projeto
 
 REFERÊNCIA
