@@ -7,17 +7,21 @@ Esse Projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli
 <h2 align="center"><img src="./src/assets/img/potência-tech-angular-developer-powered-by-iFood.webp" width="250px"></h2>
 
 <p>Esse foi o primeiro projeto em Angular desenvolvido como parte do programa de aprendizado Potência Tech Angular Developer, em parceria com iFood, sob a orientação de Felipe Aguiar em três lives práticas. Durante essas lives foi desenvolvido uma aplicação simples que simula a funcionalidade básica do Twitter com o objetivo de aprender os conceitos fundamentais do framework Angular e como componentes.</p>
-
 <p align="center">
 <a href="#-projeto">🖥️ Projeto</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#-tecnologia">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-orientador">👩‍💻 Orientador </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-documentation">📝 Documentação</a>
 </p>
 
+
+
+
 ## 🖥️ Projeto
 
 Este repositório foi construído com base no framework Angular, durante as lives práticas ministradas por Felipe Aguiar, cuja orientação foi fundamental para a criação do projeto. O objetivo deste repositório é lembrar o primeiro contato com o Angular, pois o projeto foi construído do zero, revisando as aulas dadas durante as lives. Todo o crédito do projeto vai para o repositório final, que pode ser encontrado em [https://github.com/felipeAguiarCode/angular-twitter-clone].
+
+
 
 ## 🚀 Tecnologias
 
@@ -28,9 +32,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - TypeScript
 
+
+
 ## 👩‍💻 Orientador 
 
 Para [Felipe Aguiar](https://github.com/felipeAguiarCode) Com muito carinho, gostaria de expressar de coração por proporcionar esse conteúdo incrível durante as lives. Fiquei muito grato por ter sido notado por você durante essas transmissões! Agradeço e muito, por você ter apresentado durante esse pouco tempo o uso do framework Angular, que todos nós componentizamos o mundo!
+
+
 
 ## 📝 Documentation
 
