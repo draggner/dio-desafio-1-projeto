@@ -6,14 +6,14 @@ Esse Projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli
 
 <h2 align="center"><img src="./src/assets/img/potência-tech-angular-developer-powered-by-iFood.webp" width="250px"></h2>
 
+<p>Esse foi o primeiro projeto em Angular desenvolvido como parte do programa de aprendizado Potência Tech Angular Developer, em parceria com iFood, sob a orientação de Felipe Aguiar em três lives práticas. Durante essas lives foi desenvolvido uma aplicação simples que simula a funcionalidade básica do Twitter com o objetivo de aprender os conceitos fundamentais do framework Angular e como componentes.</p>
+
 <p align="center">
 <a href="#-projeto">🖥️ Projeto</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-orientador">👩‍💻 Orientador </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-documentation">📝 Documentação</a>
 </p>
-
-<p>Esse foi o primeiro projeto em Angular desenvolvido como parte do programa de aprendizado Potência Tech Angular Developer, em parceria com iFood, sob a orientação de Felipe Aguiar em três lives práticas. Durante essas lives foi desenvolvido uma aplicação simples que simula a funcionalidade básica do Twitter com o objetivo de aprender os conceitos fundamentais do framework Angular e como componentes.</p>
 
 ## 🖥️ Projeto
 
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 👩‍💻 Orientador 
 
-Para [Felipe Aguiar](https://github.com/felipeAguiarCode) Com muito carinho, gostaria de expressar de coração por proporcionar esse conteúdo incrível durante as lives. Fiquei muito grato por ter sido notado por você durante essas transmissões! Agradeço e muito, por você ter apresentado durante esse pouco tempo o uso do framework Angular, que todos nós componentizamos o mundo!
+Para [Felipe Aguiar](https://github.com/felipeAguiarCode) Com muito carinho, gostaria de expressar de coração por proporcionar esse conteúdo incrível durante as lives, essas práticas foram sensacionais! Fiquei muito feliz por ter sido notado por você durante essas transmissões, duas vezes inclusive Aaaah! Agradeço e muito, por você ter apresentado o Angula durante esse pouco tempo que tivemos nessas lives. To começando agora a ver você no Bootcamp de Angular (que inclusive ta sendo incrível) Mas de toda forma que fique meu carinho por você! Que todos nós começem a componentizar o mundo!
 
 ## 📝 Documentation
 
