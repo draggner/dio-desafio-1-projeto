@@ -13,7 +13,7 @@
     <div class="flex-1">
       <!-- TEXTAREA -->
       <div class="flex-1">
-        <textarea [(ngModel)]="tweetMenssage" (input)="changeTweet()" rows="3" maxlength="240" placeholder="What's happening..." class="mb-2 bg-gray-200 focus:outline-none focus:shadow-outline focus:bg-gray-100 resize-none border border-transparent rounded-lg py-2 px-4 block w-full appearance-none font-light
+        <textarea (keyup.enter)="sendTweet()" (input)="changeTweet()" rows="3" [maxlength]="tweetMaxLength" [(ngModel)]="tweetMenssage" placeholder="What's happening..." class="mb-2 bg-gray-200 focus:outline-none focus:shadow-outline focus:bg-gray-100 resize-none border border-transparent rounded-lg py-2 px-4 block w-full appearance-none font-light
         placeholder-gray-700"></textarea>
       </div>
       <div class="w-auto border rounded-lg">

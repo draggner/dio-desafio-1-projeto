@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { MessagesService } from 'src/app/services/messages.service';
 
 @Component({
   selector: 'app-new-post',
@@ -8,14 +9,20 @@ import { Component } from '@angular/core';
 export class NewPostComponent {
   tweetMenssage: string = ""
   
-  tweeMaxLength: number = 240
-  tweetRemain: number = this.tweeMaxLength
+  tweetMaxLength: number = 240
+  tweetRemain: number = this.tweetMaxLength
 
-  changeTweet() {
-    this.tweetRemain = 240 - this.tweetMenssage.length
-  }
+  constructor(private service: MessagesService){}
 
   sendTweet() {
-    alert(this.tweetMenssage)
+    this.service.addMessages(this.tweetMenssage)
+    this.tweetMenssage = ""
+    this.tweetRemain = this.tweetMaxLength
+
+    alert(this.service.getMessages())
+  }
+
+  changeTweet() {
+    this.tweetRemain = this.tweetMaxLength - this.tweetMenssage.length
   }
 }
