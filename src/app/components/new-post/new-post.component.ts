@@ -18,8 +18,6 @@ export class NewPostComponent {
     this.service.addMessages(this.tweetMenssage)
     this.tweetMenssage = ""
     this.tweetRemain = this.tweetMaxLength
-
-    alert(this.service.getMessages())
   }
 
   changeTweet() {

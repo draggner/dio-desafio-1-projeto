@@ -24,9 +24,7 @@ import { FooterComponent } from './components/footer/footer.component';
     BrowserModule,
     FormsModule
   ],
-  providers: [
-    MessagesService
-  ],
+  providers: [MessagesService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
