@@ -1,6 +1,8 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 
+import { DataFake } from '../../data/dateFake';
+
 @Component({
   selector: 'app-content',
   templateUrl: './content.component.html',
@@ -8,16 +10,28 @@ import { ActivatedRoute } from '@angular/router';
 })
 export class ContentComponent implements OnInit{
   @Input()
-  photoCover: string = "../../../assets/1683561061810.jpg"
+  photoCover: string = ""
   @Input()
-  cardTitle: string = "NOVO ANGULAR DEVELOPER"
+  cardTitle: string = ""
   @Input()
-  cardDescription: string = "A nova atualização e anunciamento do Framework Angular, os desevolvedores começaram a utilizar e esta sendo uma nova tendência de mercado."
+  cardDescription: string = ""
+
+  private id:string | null = "0"
 
   constructor(private route: ActivatedRoute) {
     
   }
   ngOnInit(): void {
-    this.route.paramMap.subscribe(value => console.log(value.get("id")))
+    this.route.paramMap.subscribe(value => this.id = value.get("id"))
+
+    this.setValuesToComponent(this.id)
+  }
+
+  setValuesToComponent(id: string | null) {
+    const result = DataFake.filter(article => article.id == id) [0]
+    
+    this.photoCover = result.photo
+    this.cardTitle = result.title
+    this.cardDescription = result.description
   }
 }
