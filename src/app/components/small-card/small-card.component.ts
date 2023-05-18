@@ -10,4 +10,6 @@ export class SmallCardComponent {
   photoCover: string = "../../../assets/1683561061810.jpg"
   @Input()
   cardTitle: string = ""
+  @Input()
+  Id:string =""
 }
