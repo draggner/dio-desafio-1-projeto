@@ -3,7 +3,7 @@ Esse projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli
 
 <h1 align="center">Potência Tech Angular Developer Powered by iFood </h1>
 
-<h2 align="center"><img src="./src/assets/potência-tech-angular-developer-powered-by-iFood.webp" width="250px"></h2>
+<h2 align="center"><img src="/src/assets/potência-tech-angular-developer-powered-by-iFood.webp" width="250px"></h2>
 
 <p>Este repositório é dedicado ao desafio de projeto "Criando um Blog com Angular" do Bootcamp Potência Tech Angular Developer - by Powered iFood, orientado por Felipe Aguiar. O objetivo principal deste projeto é permitir a consolidação dos conhecimentos adquiridos durante o bootcamp, garantindo que nenhum dos conceitos aprendidos seja em vão. Além disso, visa contribuir para o aprimoramento dos estudos e servir como base sólida para as próximas etapas de finalização do bootcamp.</p>
 
