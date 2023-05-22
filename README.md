@@ -2,7 +2,7 @@
 
 Esse Projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 15.2.5.
 
-<h1 align="center">Potência Tech Angular Developer Powered by iFood </h1>
+<h1 align="center">Potência Tech Angular Developer - Powered by iFood </h1>
 
 <h2 align="center"><img src="./src/assets/img/potência-tech-angular-developer-powered-by-iFood.webp" width="250px"></h2>
 
