@@ -1,7 +1,7 @@
-# Repositório - Desafio 1 de Projeto Git/GitHub
+# DIO.me
 
-Desafio 1 de Projeto na Plataforma Dio.me utilizando as Tecs Git/GitHub no Bootcamp Pottencial.Net.
+## Bootcamps
 
-## Links
+## Acelerações
 
-[Síntaxe Basica de Markdown](https://www.markdownguide.org/basic-syntax/)
+## Cursos
