@@ -1,0 +1,27 @@
+.home__container{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1.25rem/* 20px */;
+}
+
+.footer__container{
+  width: 100%;
+  margin-top: 2.5rem /*40px*/;
+  bottom: 0px;
+  margin: auto;
+}
+
+@media (min-width: 640px) {
+  .home__container {
+    max-width: 640px;
+  }
+}
+@media (min-width: 768px) {
+  .home__container {
+    max-width: 768px;
+  }
+}

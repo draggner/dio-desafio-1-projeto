@@ -1,0 +1,37 @@
+<div class="quizz_container">
+  <div class="quizz__logo">
+    <h1>BuzzFeed</h1>
+    <h3>{{titleQuizz}}</h3>
+  </div>
+
+  <!-- Para a visualização final, pra não ser exibido para usuário as opções, nas diretivas *ngIf inserir no quizz__questions e quizz__options acompanhados com exclamação (!) -->
+
+  <div *ngIf="!finished"
+  class="quizz__questions">
+    <h3>{{questionSelected.question}}</h3>
+  </div>
+
+  <!-- Para ser exibido as opções do botão, com o uso da diretiva *ngFor que percorre todo o objeto do JSON e exibir na tela. -->
+
+  <div *ngIf="!finished" class="quizz__options">
+    <button 
+      class="quizz___btn-option"
+      *ngFor="let optionQuizz of questionSelected.options"
+      (click)="playerChosse(optionQuizz.alias)"
+      >
+      {{optionQuizz.name}}
+    </button>
+  </div>
+
+  <!-- Com o uso da diretiva *ngIf por padrão de vizualiação vem true. Quando false, deixa de exibir na tela. -->
+
+  <div class="quizz__results"
+  *ngIf="finished"
+  >
+    <h1> O seu resultado é:
+    </h1>
+    <p>
+      {{answerSelected}}
+    </p>
+  </div>
+</div>

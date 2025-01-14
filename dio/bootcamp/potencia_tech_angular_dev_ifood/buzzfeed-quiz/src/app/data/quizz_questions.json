@@ -1,0 +1,89 @@
+{
+  "title":"Na Era Medieval...",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual papel você desempenharia em um mundo medieval mágico?",
+      "options":[
+        {"id": 1, "name":"Você seria um destemido guerreiro em busca de aventuras e batalhas desafiadoras. Sendo um guerreiro habilidoso, está sempre pronto para defender seus ideais", "alias":"A"},
+        {"id": 2, "name":"Você seria um estudioso das artes místicas arcanas, cujo seu foco seria o estudo de conhecimentos antigos e a busca pelo domínio dos poderes mágicos.", "alias":"B"},
+        {"id": 3, "name":"Você seria um ferreiro cujo sua paixão reside na arte da forja, em criação de armas e na exploração de minas em busca de materiais preciosos.", "alias":""},
+        {"id": 4, "name":"Você seria um especialista em magia curativa, sendo capaz de utilizar runas mágicas, poderosos feitiços para curar e fornecer suporte mágico a seus aliados.", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Que tipo de criatura mística você gostaria de domar?",
+      "options":[
+        {"id": 1, "name":"Um dragão espiritual capaz de conjurar feitiços poderosos. Cujo são criaturas imponente com uma fonte de poder mágico absurdo, sendo um aliado formidável em batalhas.", "alias":"B"},
+        {"id": 2, "name":"Uma entidade mística que personifica a essência do combate físico. Sendo capaz de auxiliar em batalhas, concedendo poderes sobre-humanos ao seu portador.", "alias":"A"},
+        {"id": 3, "name":"Um lobo sobrenatural cujo sua lealdade é um ponto forte, quando dominada. Esse lobo vaga desde a antiguidade, dizem que sua verdadeira face se revela em seu pescoço, mostrando um tamanho violento.", "alias":"A"},
+        {"id": 4, "name":"Uma criatura astuta e pequena que toma forma de uma coruja, ela representa as enferminades antigas dos tempos antigos, é capaz de fornecer conhecimentos ocultos e auxiliar em tarefas sutis, utilizando suas habilidades.", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual seria o seu local preferido para viver?",
+      "options":[
+        {"id": 1, "name":"Você escolheria viver em um castelo imponente situado no topo de uma montanha, desfrutando de uma vista panorâmica e de um ambiente grandioso. Esse local oferece segurança, privacidade e uma sensação de prestígio e nobreza.", "alias":"A"},
+        {"id": 2, "name":"Sua preferência seria por uma cabana isolada em meio a uma floresta encantada. Nesse local sereno e mágico, você estaria em sintonia com a natureza, cercado por criaturas místicas e rodeado pela tranquilidade das árvores e dos cantos dos pássaros.", "alias":"B"},
+        {"id": 3, "name":"Você optaria por viver nas alturas, no topo dos céus celestiais, com uma vista deslumbrante dos pôr do sol. Nesse local celestial, você estaria cercado por nuvens e paisagens celestiais, apreciando a beleza e a serenidade dos céus.", "alias":"B"},
+        {"id": 4, "name":"Sua escolha seria viver em torno de uma ilha colossal no oceano, desfrutando da vastidão dos mares e da imensidão do horizonte. Nesse local exuberante, você estaria cercado por águas cristalinas, praias paradisíacas e uma rica diversidade marinha.", "alias":"A"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Como você lidaria com desafios e adversidades??",
+      "options":[
+        {"id": 1, "name":"Você enfrentaria os desafios de frente, confiando em sua coragem e força física para superar qualquer obstáculo. Seria alguém determinado, disposto a enfrentar batalhas e utilizar suas habilidades de combate para vencer as adversidades.", "alias":"A"},
+        {"id": 2, "name":"Sua abordagem para lidar com desafios seria através do uso da sabedoria e da magia. Você buscaria soluções criativas, utilizando seus conhecimentos místicos e a magia para superar obstáculos de maneiras únicas e inovadoras.", "alias":"B"},
+        {"id": 3, "name":"Você optaria por uma abordagem mais furtiva, explorando habilidades de espionagem e agindo nas sombras para contornar os desafios. Seria capaz de encontrar caminhos alternativos, evitar confrontos diretos e solucionar problemas de forma discreta e estratégica.", "alias":""},
+        {"id": 4, "name":"Sua preferência seria buscar alianças e formar uma equipe para enfrentar os desafios juntos. Acreditaria na força do trabalho em equipe, reunindo pessoas com habilidades complementares para superar obstáculos de forma colaborativa e compartilhar experiências.", "alias":"A"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Como você se prepararia para uma batalha iminente?",
+      "options":[
+        {"id": 1, "name":"Realizando um treinamento intensivo, aprimorando suas habilidades de combate e fortalecendo seu corpo.", "alias":"A"},
+        {"id": 2, "name":"Fazendo uso de rituais ancestrais ou cerimônias de preparação para entrar em um estado mental focado e determinado.", "alias":"A"},
+        {"id": 3, "name":"Utilizando equipamentos especiais e armaduras personalizadas para aumentar sua proteção e resistência durante o combate.", "alias":"B"},
+        {"id": 4, "name":"Estudando táticas de batalha e estratégias de combate, buscando compreender as fraquezas dos inimigos.", "alias":"A"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Em uma batalha mágica, qual seria a sua abordagem?",
+      "options":[
+        {"id": 1, "name":"Invocando raios e trovões para criar uma tempestade poderosa.", "alias":"B"},
+        {"id": 2, "name":"Manipulando ilusões e enganando os oponentes com truques astutos.", "alias":"A"},
+        {"id": 3, "name":"Conjurando aprimoramento de espadas sagradas para enfrentar seus inimigos.", "alias":"A"},
+        {"id": 4, "name":"Conjuração de feitiços poderosos para deter os oponentes.", "alias":"B"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Qual estratégia você adotaria em uma batalha corpo a corpo?",
+      "options":[
+        {"id": 1, "name":"Investindo em ataques rápidos e precisos, visando desarmar e incapacitar o oponente.", "alias":"A"},
+        {"id": 2, "name":"Utilizando um escudo resistente para se proteger dos ataques inimigos, buscando oportunidades para contra-atacar.", "alias":"A"},
+        {"id": 3, "name":"Empregando técnicas de combate corpo a corpo avançadas, como golpes poderosos e movimentos acrobáticos.", "alias":"A"},
+        {"id": 4, "name":"Adaptando-se ao estilo de luta do oponente, analisando suas fraquezas e aproveitando-as para obter a vitória.", "alias":"B"}
+      ]
+    },
+    {
+      "id":8,
+      "question": "Qual habilidade especial você desenvolveria para se destacar?",
+      "options":[
+        {"id": 1, "name":"Agilidade extrema, permitindo esquivas rápidas e movimentos acrobáticos durante o combate.", "alias":"A"},
+        {"id": 2, "name":"Força sobre-humana, permitindo levantar objetos pesados e desferir golpes devastadores.", "alias":"A"},
+        {"id": 3, "name":"Resistência a ferimentos, permitindo suportar golpes poderosos e se recuperar rapidamente durante a batalha.", "alias":"B"},
+        {"id": 4, "name":"Perícia em armas específicas, como espadas, lanças ou machados, dominando técnicas avançadas de combate.", "alias":"A"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Parabéns! Na era medieval, você seria um destemido cavaleiro em busca de aventuras e justiça, protegendo os inocentes. Sua coragem e habilidades físicas, o tornam um defensor poderoso em qualquer reino medieval. Seu espírito de determinação incansável o impulsionam a enfrentar batalhas épicas e proteger aqueles que precisam.",
+    "B": "Parabéns! Na era medieval, você seria um sábio feiticeiro que domina as artes místicas arcanas.  Sua sabedoria e poder mágico o tornam uma força a ser reconhecida em qualquer reino medieval! Desvendando segredos antigos e dominando a magia para influenciar o mundo ao seu redor."
+  }
+}
