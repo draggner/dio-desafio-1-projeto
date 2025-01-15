@@ -1,0 +1,34 @@
+.container__content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container__content > a {
+  color: #ffffff;
+}
+
+.content__cover {
+  width: 500px;
+}
+.content__cover > img {
+  width: 500px;
+  min-width: 500px;
+}
+
+.content__title > h1 {
+  font-size: 34px;
+  color: #ffffff;
+}
+
+.content__title > hr {
+  opacity: 0.5;
+}
+
+.content__description > p {
+  color: gray;
+  font-size: 20px;
+  margin-top: 20px;
+}
